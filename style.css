@@ -16,4 +16,6 @@ input {
   margin-top: 40px;
   margin-left: 110px;
   text-align: center;
+  border-color: green;
+  border-width: 10px;
 }
